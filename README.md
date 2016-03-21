@@ -1,2 +1,2 @@
-# Battleship_Original
+# Battleship
 Simple Python-based Battleship! Game
